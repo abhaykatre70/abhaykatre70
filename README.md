@@ -43,16 +43,17 @@
 <br/>
 
 <!-- Black background with white border using custom HTML -->
-<table align="center" width="100%" style="background-color:black; border: 2px solid white; border-collapse: collapse;">
+<table align="center" style="background-color: black; border-collapse: collapse; border: 2px solid white;">
   <tr>
-    <td align="center" style="border: 1px solid white; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaykatre70&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <td style="border: 1px solid white; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaykatre70&theme=dark&hide_border=false&show_icons=true&locale=en&layout=compact" width="350" height="180" alt="Top Languages" />
     </td>
-    <td align="center" style="border: 1px solid white; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=abhaykatre70&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+    <td style="border: 1px solid white; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=abhaykatre70&theme=dark&hide_border=false&show_icons=true&locale=en" width="350" height="180" alt="GitHub Stats" />
     </td>
-    <td align="center" style="border: 1px solid white; padding: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaykatre70&theme=tokyonight" alt="GitHub Streak" />
+    <td style="border: 1px solid white; padding: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaykatre70&theme=dark&hide_border=false" width="350" height="180" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
+
